@@ -3,13 +3,15 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/cloud.css">
     <title>cloud</title>
     <style>
         body {
             background-image: url(images/csbg.jpeg);
             background-repeat: no-repeat;
             background-position: left top;
-            background-size: cover;
+            background-size: 100% 100%;
         }
 
         .cloud {
@@ -18,8 +20,13 @@
             top: 20%;
             box-sizing: border-box;
             transform: translate(-50%, -20%);
+            height: 100%;
+            width: 100%
         }
-
+        .cloud img{
+          width: 100%;
+          height: 100%
+        }
         .black_overlay {
             display: none;
             position: absolute;
@@ -57,10 +64,10 @@
 <div style="height: 100%">
     <div class="cloud"><img src="images/cloud.gif"></div>
     <div style="position: absolute;left: 10%;top: 15%;"><img src="images/yin1.gif" width="80%"></div>
-    <div style="position: absolute;left: 15%;top: 25%;" onclick="openWindow()"><img src="images/sing1.gif" width="80%"></div>
-    <div style="position: absolute;right: 10%;top: 15%;"><img src="images/position1.gif" width="80%"></div>
-    <div style="position: absolute;right: 14%;top: 20%;"><img src="images/wuxianpu1.png" width="80%"></div>
-    <div style="position: absolute;right: 14%;top: 35%;"><img src="images/exam.gif" width="80%"></div>
+    <div style="position: absolute;left: 15%;top: 56%;" onclick="openWindow()"><img src="images/sing1.gif" width="80%"></div>
+    <div style="position: absolute;right: 6%;top: 6%;"><img src="images/position1.gif" width="80%"></div>
+    <div class="boxCenter"><img class="center" src="images/wuxianpu1.png" width="80%"></div>
+    <div style="position: absolute;right: 0%;top: 35%;"><img src="images/exam.gif" width="80%"></div>
 </div>
 <img id="fade" class="black_overlay" src="images/close.png" width="50px" onClick="closeWindow()"/>
 <div id="light_qq" class="white_content">

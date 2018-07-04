@@ -20,15 +20,20 @@
         }
 
         .choice {
-            min-height: 150px;
+            /* min-height: 150px;
             text-align: center;
             line-height: 150px;
-            min-width: 150px;
+            min-width: 150px; */
             /*border: 1px solid black;*/
-            margin: 50px 60px;
+            /* justify-content:center; */
+            flex-grow:1;
+            padding: 50px 60px;
             /*border-radius: 20px 2px 20px 2px;*/
         }
+        .choice>div{
+          /* justify-content:center */
 
+        }
         .choice:hover {
             -webkit-animation: sucaijiayuan 1s .1s ease both;
             -moz-animation: tada 1s .1s ease both;
@@ -69,6 +74,11 @@
             width: 90%;
             margin: 30px auto 10px auto;
             display: flex;
+            /* flex-grow:1; */
+        }
+        .choice img{
+          display: block;
+          margin: 0 auto
         }
 
     </style>
@@ -78,7 +88,7 @@
     <p class="title">C音习题</p>
     <div class="question">1.下列哪个音是DO？</div>
     <div class="answers">
-        <div class="choice right-answer" onclick="openWindow()"><img src="exam-images/第1题-1.png" /></div>
+        <div class="choice right-answer"><img src="exam-images/第1题-1.png" /></div>
         <div class="choice"><img src="exam-images/第1题-2.png"/></div>
         <div class="choice"><img src="exam-images/第1题-3.png"/></div>
     </div>
@@ -87,6 +97,9 @@
 </body>
 
 <script type="text/javascript" src="jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="./js/examin.js">
+
+</script>
 <script>
     $(function () {
         $(".right-answer").click(function () {
