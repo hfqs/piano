@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d32478f-2b17-4c6a-b912-aaef677b0e97" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/1-result.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/2-result.html" />
-      <change beforePath="$PROJECT_DIR$/examination1-1.html" afterPath="$PROJECT_DIR$/examination1-1.html" />
-      <change beforePath="$PROJECT_DIR$/examination1-2.html" afterPath="$PROJECT_DIR$/examination1-2.html" />
-      <change beforePath="$PROJECT_DIR$/examination1-3.html" afterPath="$PROJECT_DIR$/examination1-3.html" />
-      <change beforePath="$PROJECT_DIR$/examination1-5.html" afterPath="$PROJECT_DIR$/examination1-5.html" />
-      <change beforePath="$PROJECT_DIR$/examination1-7.html" afterPath="$PROJECT_DIR$/examination1-7.html" />
-      <change beforePath="$PROJECT_DIR$/examination2-1.html" afterPath="$PROJECT_DIR$/examination2-1.html" />
-      <change beforePath="$PROJECT_DIR$/examination2-2.html" afterPath="$PROJECT_DIR$/examination2-2.html" />
-      <change beforePath="$PROJECT_DIR$/examination2-3.html" afterPath="$PROJECT_DIR$/examination2-3.html" />
-      <change beforePath="$PROJECT_DIR$/examination2-5.html" afterPath="$PROJECT_DIR$/examination2-5.html" />
-      <change beforePath="$PROJECT_DIR$/examination2-6.html" afterPath="$PROJECT_DIR$/examination2-6.html" />
-      <change beforePath="$PROJECT_DIR$/examination2-7.html" afterPath="$PROJECT_DIR$/examination2-7.html" />
-      <change beforePath="$PROJECT_DIR$/examination2-8.html" afterPath="$PROJECT_DIR$/examination2-8.html" />
-      <change beforePath="$PROJECT_DIR$/js/examin.js" afterPath="$PROJECT_DIR$/js/examin.js" />
-    </list>
+    <list default="true" id="7d32478f-2b17-4c6a-b912-aaef677b0e97" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/examination2-8.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="139" column="42" lean-forward="true" selection-start-line="139" selection-start-column="42" selection-end-line="139" selection-end-column="42" />
+              <caret line="139" column="42" lean-forward="false" selection-start-line="139" selection-start-column="42" selection-end-line="139" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -747,7 +731,7 @@
     <entry file="file://$PROJECT_DIR$/examination2-8.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="139" column="42" lean-forward="true" selection-start-line="139" selection-start-column="42" selection-end-line="139" selection-end-column="42" />
+          <caret line="139" column="42" lean-forward="false" selection-start-line="139" selection-start-column="42" selection-end-line="139" selection-end-column="42" />
           <folding />
         </state>
       </provider>
