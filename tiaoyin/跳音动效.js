@@ -853,7 +853,7 @@ p.nominalBounds = new cjs.Rectangle(-69,-68.5,138,137);
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("已单击鼠标");
+			alert("4");
 			// 结束您的自定义代码
 		}
 	}
@@ -891,8 +891,17 @@ p.nominalBounds = new cjs.Rectangle(-69,-68.5,138,137);
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("已单击鼠标");
+			// alert("5");
 			// 结束您的自定义代码
+			$("#knowledge").attr("src", './important/下弹力/下弹力.html')
+			$('.background').show()
+			$('.close').show()
+			$('#knowledge').show()
+
+
+
+
+
 		}
 	}
 
@@ -929,7 +938,7 @@ p.nominalBounds = new cjs.Rectangle(-69,-68.5,138,137);
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("已单击鼠标");
+			alert("2");
 			// 结束您的自定义代码
 		}
 	}
@@ -1155,7 +1164,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("已单击鼠标");
+			alert("3");
 			// 结束您的自定义代码
 		}
 	}
