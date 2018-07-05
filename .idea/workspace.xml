@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d32478f-2b17-4c6a-b912-aaef677b0e97" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/examination2-5.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/examination2-6.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/examination2-7.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/examination2-8.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/5（无跳音）.mp3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/5（有跳音）.mp3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/6（无跳音）.mp3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/6（有跳音）.mp3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/7（无跳音）.mp3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/7（有跳音）.mp3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/8（无跳音）.mp3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/8（有跳音）.mp3" />
-      <change beforePath="$PROJECT_DIR$/examination1-1.html" afterPath="$PROJECT_DIR$/examination1-1.html" />
-      <change beforePath="$PROJECT_DIR$/examination1-2.html" afterPath="$PROJECT_DIR$/examination1-2.html" />
-      <change beforePath="$PROJECT_DIR$/examination1-3.html" afterPath="$PROJECT_DIR$/examination1-3.html" />
-      <change beforePath="$PROJECT_DIR$/examination1-5.html" afterPath="$PROJECT_DIR$/examination1-5.html" />
-      <change beforePath="$PROJECT_DIR$/examination2-1.html" afterPath="$PROJECT_DIR$/examination2-1.html" />
-      <change beforePath="$PROJECT_DIR$/examination2-2.html" afterPath="$PROJECT_DIR$/examination2-2.html" />
-      <change beforePath="$PROJECT_DIR$/examination2-3.html" afterPath="$PROJECT_DIR$/examination2-3.html" />
-    </list>
+    <list default="true" id="7d32478f-2b17-4c6a-b912-aaef677b0e97" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -377,12 +357,12 @@
       <option name="presentableId" value="Default" />
       <updated>1530595804490</updated>
       <workItem from="1530595806233" duration="24979000" />
-      <workItem from="1530692064838" duration="8526000" />
+      <workItem from="1530692064838" duration="8729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33505000" />
+    <option name="totallyTimeSpent" value="33708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
