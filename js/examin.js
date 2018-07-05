@@ -13,10 +13,10 @@ function check (num){
   }
   $('.checkImg').hide()
 }
-$(".choice").click(function(event) {
+$(".choice img:first-of-type").click(function(event) {
   /* Act on the event */
   console.log($(this).find('.checkImg'));
-  $(this).find('.checkImg').show()
+  $(this).parent('.choice').find('.checkImg').show()
 });
 
 // alert(1)
