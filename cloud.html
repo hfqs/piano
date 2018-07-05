@@ -16,16 +16,21 @@
 
         .cloud {
             position: absolute;
-            left: 50%;
-            top: 20%;
+            /* left: 50%; */
+            /* top: 20%; */
             box-sizing: border-box;
-            transform: translate(-50%, -20%);
+            /* transform: translate(-50%, -20%); */
             height: 100%;
-            width: 100%
+            width: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 9999
         }
         .cloud img{
           width: 100%;
-          height: 100%
+          height: 100%;
+
         }
         .black_overlay {
             display: none;
@@ -56,14 +61,47 @@
             -moz-transition: opacity 4s linear;
             -ms-transition: opacity 4s linear;
         }
-
-
+        #knowledge{
+          /* 17 9 */
+          position: absolute;
+          width: 85vw;
+          height: 80vh;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%,-50%);
+          border: none;
+          z-index: 100;
+          display: none;
+        }
+        .background{
+          display: none;
+          position: absolute;
+          left: 0;
+          top: 0;
+          width: 100%;
+          height: 100%;
+          background: #000;
+          opacity: 0.5;
+          z-index: 10
+        }
+        .close{
+          display: none;
+          width: 4vw;
+          height: 4vw;
+          position: absolute;
+          top: 10.5vh;
+          right: 3.5vw;
+          transform: translate(-50%,-50%);
+          z-index: 500
+        }
     </style>
 </head>
 <body>
+  <div class="background"></div>
+  <div class="cloud"><img src="images/cloud1.gif"></div>
 <div style="height: 100%">
-    <div class="cloud"><img src="images/cloud1.gif"></div>
-    <div style="position: absolute;left: 10%;top: 15%;"><img src="images/yin1.gif" width="80%"></div>
+
+    <div style="position: absolute;left: 10%;top: 15%;"><img class="yin" src="images/yin1.gif" width="80%"></div>
     <div style="position: absolute;left: 15%;top: 56%;" onclick="openWindow()"><img src="images/sing1.gif" width="80%"></div>
     <div style="position: absolute;right: 6%;top: 6%;"><img src="images/position1.gif" width="80%"></div>
     <div class="boxCenter"><img class="center" src="images/wuxianpu1.png" width="80%"></div>
@@ -76,6 +114,11 @@
     </div>
 
 </div>
+
+<iframe scrolling="no"  id="knowledge" src="./认识音名C——知识点完.html" width="" height=""></iframe>
+
+
+<img class="close" src='images/close.png' />
 <script type="text/javascript" src="jquery-1.7.2.min.js"></script>
 <script>
 
@@ -89,6 +132,21 @@
         document.getElementById('light_qq').style.display = 'none';
         document.getElementById('fade').style.display = 'none';
     }
+
+    $('.yin').click(function(event) {
+      /* Act on the event */
+      $('#knowledge').show()
+      $("#knowledge").attr("src", './认识音名C——知识点完.html')
+      $('.background').show()
+      $('.close').show()
+    });
+    $('.close').click(function(event) {
+      /* Act on the event */
+      $('#knowledge').hide()
+      $('.background').hide()
+      $('.close').hide()
+
+    });
 </script>
 </body>
 </html>
