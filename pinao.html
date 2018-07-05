@@ -57,7 +57,7 @@
 
         .answers {
             width: 90%;
-            margin: 30px auto 10px auto;
+            margin: 140px auto 10px auto;
             display: flex;
             position: relative;
             /* flex-grow:1; */
@@ -78,7 +78,34 @@
         .prev {
             left: -15%;
         }
+        .pianoBtn {
+          width: 100%
+        }
+        .pianoBtn>img:first-of-type{
+          display: block;
+          width: 100%
+        }
+        .circle{
+          position: absolute;
+          width: 1.92%;
+          height: 100%;
+          top: 0;
 
+        }
+        .circle img{
+          position: absolute;
+          bottom: 10px;
+          width: 80%;
+          left: 50%;
+          transform: translateX(-50%);
+          display: none;
+        }
+        .correct{
+          display: none;
+          position: absolute;
+          left: 50%;
+          transform: translateX(-50%);
+        }
     </style>
 </head>
 <body>
@@ -87,6 +114,18 @@
     <div class="question">7.找出键盘上所有的DO音？</div>
     <div class="answers">
         <img class="prev" src="exam-images/上一题.png" alt="">
+        <div class="pianoBtn">
+          <img src="exam-images/琴键.png" alt="">
+          <div class="circle"><img src="exam-images/点.png" alt=""></div>
+          <div class="circle"><img src="exam-images/点.png" alt=""></div>
+          <div class="circle"><img src="exam-images/点.png" alt=""></div>
+          <div class="circle"><img src="exam-images/点.png" alt=""></div>
+          <div class="circle"><img src="exam-images/点.png" alt=""></div>
+          <div class="circle"><img src="exam-images/点.png" alt=""></div>
+          <div class="circle"><img src="exam-images/点.png" alt=""></div>
+          <div class="circle"><img src="exam-images/点.png" alt=""></div>
+          <img class="correct" src="exam-images/正确.png" alt="">
+        </div>
         <img class="next" src="exam-images/下一题.png" alt="">
     </div>
 
@@ -96,7 +135,23 @@
 <script type="text/javascript" src="jquery-1.7.2.min.js"></script>
 <script>
     $(function () {
-        check(0);
+        var len=$('.circle').length,num=0
+        for (var i = 0; i <len; i++) {
+          var per=3.84+i*1.92*7
+          // console.log(3.84+i*1.92);
+          $(`.circle:eq(${i})`).css('left', per+'%');
+        }
+        $('.circle').click(function(event) {
+          if (num==7) {
+            $('.correct').show()
+          }else{
+            num++
+          }
+
+          $(this).find('img').show()
+
+
+        });
     });
 
 </script>
