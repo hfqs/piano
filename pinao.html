@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>课后习题</title>
+    <link rel="stylesheet" type="text/css" href="css/reset.css"/>
+    <!--<link rel="stylesheet" type="text/css" href="styles.css"/>-->
+    <style type="text/css">
+        body, html {
+            height: 100%;
+            width: 100%
+        }
+
+        body {
+            background-image: url(exam-images/bg.jpg);
+            background-repeat: no-repeat;
+            background-position: left top;
+            background-size: cover;
+        }
+
+        #demo {
+            width: 80%;
+            margin: 30px auto 10px auto
+        }
+
+
+        @-webkit-keyframes sucaijiayuan {
+            0% {
+                -webkit-transform: scale(1)
+            }
+            10%, 20% {
+                -webkit-transform: scale(0.8) rotate(-2deg)
+            }
+            30%, 50%, 70%, 90% {
+                -webkit-transform: scale(1.1) rotate(2deg)
+            }
+            40%, 60%, 80% {
+                -webkit-transform: scale(1.1) rotate(-2deg)
+            }
+            100% {
+                -webkit-transform: scale(1) rotate(0)
+            }
+        }
+
+        .title {
+            font-size: 90px;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 40px;
+            margin-bottom: 60px;
+        }
+
+        .question {
+            font-size: 40px;
+            margin: 15px;
+        }
+
+        .answers {
+            width: 90%;
+            margin: 30px auto 10px auto;
+            display: flex;
+            position: relative;
+            /* flex-grow:1; */
+        }
+
+
+
+        .next, .prev {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
+        .next {
+            right: -15%
+        }
+
+        .prev {
+            left: -15%;
+        }
+
+    </style>
+</head>
+<body>
+<div id="demo">
+    <p class="title">C音习题-1/7</p>
+    <div class="question">7.找出键盘上所有的DO音？</div>
+    <div class="answers">
+        <img class="prev" src="exam-images/上一题.png" alt="">
+        <img class="next" src="exam-images/下一题.png" alt="">
+    </div>
+
+</div>
+</body>
+
+<script type="text/javascript" src="jquery-1.7.2.min.js"></script>
+<script>
+    $(function () {
+        check(0);
+    });
+
+</script>
+</html>
