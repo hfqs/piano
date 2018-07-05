@@ -7,8 +7,8 @@
     <!--<link rel="stylesheet" type="text/css" href="styles.css"/>-->
     <style type="text/css">
         body, html {
-            height: 100%;
-            width: 100%
+            width: 100% !important;
+            height: 100% !important
         }
 
         body {
@@ -97,11 +97,7 @@
             transform: translateX(-50%);
         }
 
-        .next, .prev {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-        }
+
 
         .next {
             right: -15%
@@ -109,6 +105,10 @@
 
         .prev {
             left: -15%;
+        }
+
+        img {
+            transform: scale(0.7);
         }
 
         /* .checkImg{

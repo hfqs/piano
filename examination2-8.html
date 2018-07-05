@@ -36,8 +36,9 @@
             padding: 50px 0;
             /*border-radius: 20px 2px 20px 2px;*/
         }
+
         .pu {
-            margin-left: 50px;
+            margin-left: 0px;
         }
 
         .choice > div {
@@ -46,26 +47,26 @@
         }
 
         /*.choice:hover {*/
-            /*-webkit-animation: sucaijiayuan 1s .1s ease both;*/
-            /*-moz-animation: tada 1s .1s ease both;*/
+        /*-webkit-animation: sucaijiayuan 1s .1s ease both;*/
+        /*-moz-animation: tada 1s .1s ease both;*/
         /*}*/
 
         /*@-webkit-keyframes sucaijiayuan {*/
-            /*0% {*/
-                /*-webkit-transform: scale(1)*/
-            /*}*/
-            /*10%, 20% {*/
-                /*-webkit-transform: scale(0.8) rotate(-2deg)*/
-            /*}*/
-            /*30%, 50%, 70%, 90% {*/
-                /*-webkit-transform: scale(1.1) rotate(2deg)*/
-            /*}*/
-            /*40%, 60%, 80% {*/
-                /*-webkit-transform: scale(1.1) rotate(-2deg)*/
-            /*}*/
-            /*100% {*/
-                /*-webkit-transform: scale(1) rotate(0)*/
-            /*}*/
+        /*0% {*/
+        /*-webkit-transform: scale(1)*/
+        /*}*/
+        /*10%, 20% {*/
+        /*-webkit-transform: scale(0.8) rotate(-2deg)*/
+        /*}*/
+        /*30%, 50%, 70%, 90% {*/
+        /*-webkit-transform: scale(1.1) rotate(2deg)*/
+        /*}*/
+        /*40%, 60%, 80% {*/
+        /*-webkit-transform: scale(1.1) rotate(-2deg)*/
+        /*}*/
+        /*100% {*/
+        /*-webkit-transform: scale(1) rotate(0)*/
+        /*}*/
         /*}*/
 
         .title {
@@ -102,12 +103,6 @@
             transform: translateX(-50%);
         }
 
-        .next, .prev {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-        }
-
         .next {
             right: -15%
         }
@@ -115,14 +110,21 @@
         .prev {
             left: -15%;
         }
-        .play{
-          display: block;
-          margin: 0 auto;
-          margin-top: 30px
+
+        .play {
+            display: block;
+            margin: 0 auto;
+            margin-top: 30px
         }
-        audio{
-          opacity: 0
+
+        audio {
+            opacity: 0
         }
+
+        img {
+            transform: scale(0.7);
+        }
+
         /* .checkImg{
           display: none;
         } */
@@ -134,10 +136,14 @@
     <div class="question">8.请点击喇叭听一听，哪个是跳音弹奏?</div>
     <div class="answers">
         <a href="examination2-7.html"><img class="prev" src="exam-images/上一题.png" alt=""></a>
-        <div class="choice"><img src="exam-images/music.png"/><img class="play" src="exam-images/play.png" alt=""><audio controls="controls" src="mp3/8（有跳音）.mp3" ></audio></div>
-        <div class="choice"><img src="exam-images/music.png"/><img class="play" src="exam-images/play.png" alt=""><audio controls="controls" src="mp3/8（无跳音）.mp3"></audio></div>
+        <div class="choice"><img src="exam-images/music.png"/><img class="play" src="exam-images/play.png" alt="">
+            <audio controls="controls" src="mp3/8（有跳音）.mp3"></audio>
+        </div>
+        <div class="choice"><img src="exam-images/music.png"/><img class="play" src="exam-images/play.png" alt="">
+            <audio controls="controls" src="mp3/8（无跳音）.mp3"></audio>
+        </div>
         <div class="pu"><img src="tiao-exam-image/第八题.png"/></div>
-        <a id="next" href="2-result.html" ><img class="next" src="exam-images/下一题.png" alt=""></a>
+        <a id="next" href="2-result.html"><img class="next" src="exam-images/下一题.png" alt=""></a>
     </div>
 
 </div>
@@ -150,12 +156,12 @@
 <script>
     $(function () {
         check(0);
-        $('.play').click(function(event) {
-          /* Act on the event */
-          // console.log(1,$(this).next());
-          var audio=$(this).next()
-          console.log(audio[0]);
-          audio[0].play()
+        $('.play').click(function (event) {
+            /* Act on the event */
+            // console.log(1,$(this).next());
+            var audio = $(this).next()
+            console.log(audio[0]);
+            audio[0].play()
         });
     });
 

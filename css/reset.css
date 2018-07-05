@@ -55,3 +55,9 @@ img {
   border-style: none;
   vertical-align: top;
 }
+
+.next, .prev {
+    position: absolute;
+    top: 25%;
+    transform: translateY(-50%);
+}

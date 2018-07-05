@@ -116,7 +116,7 @@
     <div style="position: absolute;right: 6%;top: 15%;"><img class="pinaoBtn" src="images/position1.gif" width="90%">
     </div>
     <div class="boxCenter"><img class="center" src="images/wuxianpu1.png" width="80%"></div>
-    <div style="position: absolute;right: 10%;top: 45%;" id="exam"><a href="./examination1-1.html"><img src="images/exam.gif" width="90%"></a> </div>
+    <div style="position: absolute;right: 10%;top: 45%;" id="exam"><img src="images/exam.gif" width="90%"> </div>
 </div>
 <iframe scrolling="no" id="knowledge" src="./认识音名C——知识点完.html" width="" height=""></iframe>
 
@@ -161,6 +161,12 @@
       $('.close').show()
       $('#knowledge').show()
     });
+    $('#exam').click(function () {
+        $("#knowledge").attr("src", './examination1-1.html')
+        $('.background').show()
+        $('.close').show()
+        $('#knowledge').show()
+    })
 </script>
 </body>
 </html>
