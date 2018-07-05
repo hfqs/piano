@@ -496,19 +496,19 @@ p.nominalBounds = new cjs.Rectangle(0,0,419.2,101.1);
 	this.frame_0 = function() {
 		/* Mouse Click 事件
 		单击此指定的元件实例会执行您可在其中添加自己的自定义代码的函数。
-		
+
 		说明:
 		1. 在以下"// 开始您的自定义代码"行后的新行上添加您的自定义代码。
 		单击此元件实例时，此代码将执行。
 		*/
-		
+
 		this.movieClip_5.addEventListener("click", fl_MouseClickHandler_4.bind(this));
-		
+
 		function fl_MouseClickHandler_4()
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("已单击鼠标");
+			alert("1");
 			// 结束您的自定义代码
 		}
 	}
@@ -534,19 +534,22 @@ p.nominalBounds = new cjs.Rectangle(0,0,419.2,101.1);
 	this.frame_0 = function() {
 		/* Mouse Click 事件
 		单击此指定的元件实例会执行您可在其中添加自己的自定义代码的函数。
-		
+
 		说明:
 		1. 在以下"// 开始您的自定义代码"行后的新行上添加您的自定义代码。
 		单击此元件实例时，此代码将执行。
 		*/
-		
+
 		this.movieClip_6.addEventListener("click", fl_MouseClickHandler_5.bind(this));
-		
+
 		function fl_MouseClickHandler_5()
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("已单击鼠标");
+		$('video').attr('src', '../../mp4/4-1-1掌关节与手指.mp4');
+		$('video').show()
+		$('.scale').show()
+		
 			// 结束您的自定义代码
 		}
 	}
@@ -664,19 +667,19 @@ p.nominalBounds = new cjs.Rectangle(0,0,419.2,101.1);
 	this.frame_0 = function() {
 		/* Mouse Click 事件
 		单击此指定的元件实例会执行您可在其中添加自己的自定义代码的函数。
-		
+
 		说明:
 		1. 在以下"// 开始您的自定义代码"行后的新行上添加您的自定义代码。
 		单击此元件实例时，此代码将执行。
 		*/
-		
+
 		this.movieClip_7.addEventListener("click", fl_MouseClickHandler_9.bind(this));
-		
+
 		function fl_MouseClickHandler_9()
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("已单击鼠标");
+			alert("3");
 			// 结束您的自定义代码
 		}
 	}
@@ -701,19 +704,19 @@ p.nominalBounds = new cjs.Rectangle(0,0,419.2,101.1);
 	this.frame_0 = function() {
 		/* Mouse Click 事件
 		单击此指定的元件实例会执行您可在其中添加自己的自定义代码的函数。
-		
+
 		说明:
 		1. 在以下"// 开始您的自定义代码"行后的新行上添加您的自定义代码。
 		单击此元件实例时，此代码将执行。
 		*/
-		
+
 		this.movieClip_5.addEventListener("click", fl_MouseClickHandler_7.bind(this));
-		
+
 		function fl_MouseClickHandler_7()
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("已单击鼠标");
+			alert("4");
 			// 结束您的自定义代码
 		}
 	}
@@ -738,19 +741,19 @@ p.nominalBounds = new cjs.Rectangle(0,0,419.2,101.1);
 	this.frame_0 = function() {
 		/* Mouse Click 事件
 		单击此指定的元件实例会执行您可在其中添加自己的自定义代码的函数。
-		
+
 		说明:
 		1. 在以下"// 开始您的自定义代码"行后的新行上添加您的自定义代码。
 		单击此元件实例时，此代码将执行。
 		*/
-		
+
 		this.movieClip_6.addEventListener("click", fl_MouseClickHandler_8.bind(this));
-		
+
 		function fl_MouseClickHandler_8()
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("已单击鼠标");
+			alert("5");
 			// 结束您的自定义代码
 		}
 	}
@@ -789,19 +792,19 @@ p.nominalBounds = new cjs.Rectangle(-4,-4,67.1,76.2);
 	this.frame_0 = function() {
 		/* Mouse Click 事件
 		单击此指定的元件实例会执行您可在其中添加自己的自定义代码的函数。
-		
+
 		说明:
 		1. 在以下"// 开始您的自定义代码"行后的新行上添加您的自定义代码。
 		单击此元件实例时，此代码将执行。
 		*/
-		
+
 		this.movieClip_9.addEventListener("click", fl_MouseClickHandler_11.bind(this));
-		
+
 		function fl_MouseClickHandler_11()
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("已单击鼠标");
+			alert("6");
 			// 结束您的自定义代码
 		}
 	}
@@ -827,19 +830,19 @@ p.nominalBounds = new cjs.Rectangle(-4,-4,67.1,76.2);
 	this.frame_0 = function() {
 		/* Mouse Click 事件
 		单击此指定的元件实例会执行您可在其中添加自己的自定义代码的函数。
-		
+
 		说明:
 		1. 在以下"// 开始您的自定义代码"行后的新行上添加您的自定义代码。
 		单击此元件实例时，此代码将执行。
 		*/
-		
+
 		this.movieClip_8.addEventListener("click", fl_MouseClickHandler_10.bind(this));
-		
+
 		function fl_MouseClickHandler_10()
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("已单击鼠标");
+			alert("7");
 			// 结束您的自定义代码
 		}
 	}
@@ -923,10 +926,10 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 		时间轴将在插入此代码的帧处停止/暂停。
 		也可用于停止/暂停影片剪辑的时间轴。
 		*/
-		
+
 		this.stop();
-		
-		
+
+
 		var _this = this;
 		/*
 		单击指定元件实例时将执行相应函数。
