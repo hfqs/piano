@@ -145,7 +145,10 @@
         }
         $('.circle').click(function (event) {
             if (num == 7) {
-                $('.correct').show()
+                $('.correct').show();
+                setTimeout(function () {
+                    $('#next')[0].click();
+                }, 2000);
             } else {
                 num++
             }
