@@ -18,6 +18,27 @@
             width: 100% !important;
             height: 100% !important
         }
+        .video{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            width: 64vw;
+            height: 36vw;
+            /* display: none; */
+        }
+        .scale{
+            top: -4%;
+            position: absolute;
+            right: -1.5%;
+            /* height: 4%; */
+            width: 3vw;
+            display: none;
+        }
+        video{
+            object-fit: fill !important;
+            display: none;
+        }
     </style>
     <!-- write your code here -->
     <script type="text/javascript" src="../../js/jquery-1.7.2.min.js"></script>
@@ -125,6 +146,20 @@
     <div id="dom_overlay_container"
          style="pointer-events:none; overflow:hidden; width:1768px; height:924px; position: absolute; left: 0px; top: 0px; display: block;">
     </div>
+    <div class="video">
+        <video width="100%" object-fit="fill" height="100%" src="" controls="controls">
+            您的浏览器不支持 video 标签。
+        </video>
+        <img class="scale" src="../../images/scale.png" alt="">
+    </div>
 </div>
+<script>
+    $('.scale').click(function (event) {
+        /* Act on the event */
+        $('video').hide()
+        $('.scale').hide()
+        $('video')[0].pause();
+    });
+</script>
 </body>
 </html>

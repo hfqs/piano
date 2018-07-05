@@ -222,7 +222,10 @@ p.nominalBounds = new cjs.Rectangle(0,0,261.9,98);
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("已单击鼠标");
+			//alert("已单击鼠标");
+            $('video').attr('src', '../../mp4/3-2-2跳音-时值.mp4');
+            $('video').show()
+            $('.scale').show()
 			// 结束您的自定义代码
 		}
 	}
@@ -261,6 +264,9 @@ p.nominalBounds = new cjs.Rectangle(0,0,261.9,98);
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
 			// alert("已单击鼠标");
+            $('video').attr('src', '../../mp4/3-2-1跳音-断奏.mp4');
+            $('video').show()
+            $('.scale').show()
 			// 结束您的自定义代码
 		}
 	}
