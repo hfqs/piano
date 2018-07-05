@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d32478f-2b17-4c6a-b912-aaef677b0e97" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/tiaoyin/跳音-位置/02 跳音知识点-01位置.html" afterPath="$PROJECT_DIR$/tiaoyin/跳音-位置/跳音知识点-01位置.html" />
-      <change beforePath="$PROJECT_DIR$/tiaoyin/跳音-位置/02 跳音知识点-01位置.js" afterPath="$PROJECT_DIR$/tiaoyin/跳音-位置/跳音知识点-01位置.js" />
+      <change beforePath="$PROJECT_DIR$/tiaoyin/跳音-位置/images/02 跳音知识点_01位置_atlas_.png" afterPath="$PROJECT_DIR$/tiaoyin/important/跳音-位置/images/02 跳音知识点_01位置_atlas_.png" />
+      <change beforePath="$PROJECT_DIR$/tiaoyin/跳音-位置/libs/createjs-2015.11.26.min.js" afterPath="$PROJECT_DIR$/tiaoyin/important/跳音-位置/libs/createjs-2015.11.26.min.js" />
+      <change beforePath="$PROJECT_DIR$/tiaoyin/跳音-位置/跳音知识点-01位置.html" afterPath="$PROJECT_DIR$/tiaoyin/important/跳音-位置/跳音知识点-01位置.html" />
+      <change beforePath="$PROJECT_DIR$/tiaoyin/跳音-位置/跳音知识点-01位置.js" afterPath="$PROJECT_DIR$/tiaoyin/important/跳音-位置/跳音知识点-01位置.js" />
       <change beforePath="$PROJECT_DIR$/tiaoyin/跳音动效.js" afterPath="$PROJECT_DIR$/tiaoyin/跳音动效.js" />
+      <change beforePath="$PROJECT_DIR$/tiaoyin/跳音含义-创意/03 跳音知识点-03含义-创意02.html" afterPath="$PROJECT_DIR$/tiaoyin/important/跳音含义-创意/跳音知识点-03含义-创意02.html" />
+      <change beforePath="$PROJECT_DIR$/tiaoyin/跳音含义-创意/03 跳音知识点-03含义-创意02.js" afterPath="$PROJECT_DIR$/tiaoyin/important/跳音含义-创意/跳音知识点-03含义-创意02.js" />
+      <change beforePath="$PROJECT_DIR$/tiaoyin/跳音含义-创意/images/03 跳音知识点_03含义_创意02_atlas_.png" afterPath="$PROJECT_DIR$/tiaoyin/important/跳音含义-创意/images/03 跳音知识点_03含义_创意02_atlas_.png" />
+      <change beforePath="$PROJECT_DIR$/tiaoyin/跳音含义-创意/libs/createjs-2015.11.26.min.js" afterPath="$PROJECT_DIR$/tiaoyin/important/跳音含义-创意/libs/createjs-2015.11.26.min.js" />
+      <change beforePath="$PROJECT_DIR$/tiaoyin/跳音含义/03 跳音知识点-03含义.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tiaoyin/跳音含义/03 跳音知识点-03含义.js" afterPath="$PROJECT_DIR$/tiaoyin/important/跳音含义/跳音知识点-03含义.js" />
+      <change beforePath="$PROJECT_DIR$/tiaoyin/跳音含义/images/03 跳音知识点_03含义_atlas_NP_.jpg" afterPath="$PROJECT_DIR$/tiaoyin/important/跳音含义/images/03 跳音知识点_03含义_atlas_NP_.jpg" />
+      <change beforePath="$PROJECT_DIR$/tiaoyin/跳音含义/images/03 跳音知识点_03含义_atlas_P_.png" afterPath="$PROJECT_DIR$/tiaoyin/important/跳音含义/images/03 跳音知识点_03含义_atlas_P_.png" />
+      <change beforePath="$PROJECT_DIR$/tiaoyin/跳音含义/libs/createjs-2015.11.26.min.js" afterPath="$PROJECT_DIR$/tiaoyin/important/跳音含义/libs/createjs-2015.11.26.min.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/cloud.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="423">
-              <caret line="140" column="26" lean-forward="true" selection-start-line="137" selection-start-column="8" selection-end-line="140" selection-end-column="26" />
+              <caret line="140" column="26" lean-forward="false" selection-start-line="137" selection-start-column="8" selection-end-line="140" selection-end-column="26" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -33,27 +44,37 @@
         <entry file="file://$PROJECT_DIR$/认识音名C——知识点完.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="316">
-              <caret line="256" column="53" lean-forward="true" selection-start-line="256" selection-start-column="12" selection-end-line="256" selection-end-column="53" />
+              <caret line="256" column="53" lean-forward="false" selection-start-line="256" selection-start-column="12" selection-end-line="256" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="认识音名C——知识点完.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/认识音名C——知识点完.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="跳音动效.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="跳音动效.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tiaoyin/跳音动效.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="971" column="39" lean-forward="false" selection-start-line="971" selection-start-column="39" selection-end-line="971" selection-end-column="39" />
+            <state relative-caret-position="577">
+              <caret line="984" column="59" lean-forward="true" selection-start-line="984" selection-start-column="15" selection-end-line="984" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="跳音知识点-03含义.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tiaoyin/important/跳音含义/跳音知识点-03含义.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="跳音知识点-03含义.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tiaoyin/important/跳音含义/跳音知识点-03含义.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="590" column="43" lean-forward="false" selection-start-line="590" selection-start-column="43" selection-end-line="590" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -62,17 +83,17 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tiaoyin/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="145" column="7" lean-forward="true" selection-start-line="145" selection-start-column="7" selection-end-line="145" selection-end-column="7" />
+            <state relative-caret-position="446">
+              <caret line="131" column="49" lean-forward="true" selection-start-line="131" selection-start-column="49" selection-end-line="131" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="跳音知识点-01位置.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tiaoyin/跳音-位置/跳音知识点-01位置.js">
+        <entry file="file://$PROJECT_DIR$/tiaoyin/important/跳音-位置/跳音知识点-01位置.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-3909">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -80,7 +101,7 @@
         </entry>
       </file>
       <file leaf-file-name="跳音知识点-01位置.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tiaoyin/跳音-位置/跳音知识点-01位置.html">
+        <entry file="file://$PROJECT_DIR$/tiaoyin/important/跳音-位置/跳音知识点-01位置.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
@@ -89,31 +110,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="认识唱名DO——创意完.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/认识唱名DO/认识唱名DO——创意完.html">
+      <file leaf-file-name="跳音知识点-03含义-创意02.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tiaoyin/important/跳音含义-创意/跳音知识点-03含义-创意02.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <state relative-caret-position="345">
+              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03 跳音知识点-03含义-创意02.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tiaoyin/跳音含义-创意/03 跳音知识点-03含义-创意02.html">
+      <file leaf-file-name="跳音知识点-03含义-创意02.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tiaoyin/important/跳音含义-创意/跳音知识点-03含义-创意02.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-266">
-              <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="认识唱名DO——创意完.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/认识唱名DO/认识唱名DO——创意完.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -175,6 +186,9 @@
         <option value="$PROJECT_DIR$/tiaoyin/跳音含义/03 跳音知识点-03含义.html" />
         <option value="$PROJECT_DIR$/tiaoyin/跳音含义-创意/03 跳音知识点-03含义-创意02.html" />
         <option value="$PROJECT_DIR$/tiaoyin/跳音动效.js" />
+        <option value="$PROJECT_DIR$/tiaoyin/important/跳音含义/跳音知识点-03含义.html" />
+        <option value="$PROJECT_DIR$/tiaoyin/important/跳音含义/跳音知识点-03含义.js" />
+        <option value="$PROJECT_DIR$/tiaoyin/important/跳音含义-创意/跳音知识点-03含义-创意02.html" />
       </list>
     </option>
   </component>
@@ -232,7 +246,36 @@
               <item name="kejian" type="b2602c69:ProjectViewProjectNode" />
               <item name="kejian" type="462c0819:PsiDirectoryNode" />
               <item name="tiaoyin" type="462c0819:PsiDirectoryNode" />
+              <item name="important" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kejian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kejian" type="462c0819:PsiDirectoryNode" />
+              <item name="tiaoyin" type="462c0819:PsiDirectoryNode" />
+              <item name="important" type="462c0819:PsiDirectoryNode" />
               <item name="跳音-位置" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kejian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kejian" type="462c0819:PsiDirectoryNode" />
+              <item name="tiaoyin" type="462c0819:PsiDirectoryNode" />
+              <item name="important" type="462c0819:PsiDirectoryNode" />
+              <item name="跳音含义" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kejian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kejian" type="462c0819:PsiDirectoryNode" />
+              <item name="tiaoyin" type="462c0819:PsiDirectoryNode" />
+              <item name="important" type="462c0819:PsiDirectoryNode" />
+              <item name="跳音含义-创意" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kejian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kejian" type="462c0819:PsiDirectoryNode" />
+              <item name="tiaoyin" type="462c0819:PsiDirectoryNode" />
+              <item name="important" type="462c0819:PsiDirectoryNode" />
+              <item name="跳音含义-创意" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,6 +294,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tiaoyin/important" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images" />
     </key>
@@ -372,12 +416,12 @@
       <option name="presentableId" value="Default" />
       <updated>1530595804490</updated>
       <workItem from="1530595806233" duration="24979000" />
-      <workItem from="1530692064838" duration="20663000" />
+      <workItem from="1530692064838" duration="21773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45642000" />
+    <option name="totallyTimeSpent" value="46752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -451,12 +495,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jquiz.js" />
-    <entry file="file://$PROJECT_DIR$/images/close.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/cloud.gif">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -696,26 +734,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tiaoyin/跳音-位置/libs/createjs-2015.11.26.min.js">
+    <entry file="file://$PROJECT_DIR$/tiaoyin/important/跳音-位置/libs/createjs-2015.11.26.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiaoyin/跳音含义/03 跳音知识点-03含义.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiaoyin/跳音含义-创意/03 跳音知识点-03含义-创意02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -731,7 +753,7 @@
     <entry file="file://$PROJECT_DIR$/认识唱名DO/认识唱名DO——创意完.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -747,23 +769,7 @@
     <entry file="file://$PROJECT_DIR$/认识音名C——知识点完.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
-          <caret line="256" column="53" lean-forward="true" selection-start-line="256" selection-start-column="12" selection-end-line="256" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiaoyin/跳音-位置/跳音知识点-01位置.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiaoyin/跳音-位置/跳音知识点-01位置.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <caret line="256" column="53" lean-forward="false" selection-start-line="256" selection-start-column="12" selection-end-line="256" selection-end-column="53" />
           <folding />
         </state>
       </provider>
@@ -771,7 +777,7 @@
     <entry file="file://$PROJECT_DIR$/cloud.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
-          <caret line="140" column="26" lean-forward="true" selection-start-line="137" selection-start-column="8" selection-end-line="140" selection-end-column="26" />
+          <caret line="140" column="26" lean-forward="false" selection-start-line="137" selection-start-column="8" selection-end-line="140" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -782,16 +788,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tiaoyin/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="145" column="7" lean-forward="true" selection-start-line="145" selection-start-column="7" selection-end-line="145" selection-end-column="7" />
+        <state relative-caret-position="446">
+          <caret line="131" column="49" lean-forward="true" selection-start-line="131" selection-start-column="49" selection-end-line="131" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiaoyin/important/跳音-位置/跳音知识点-01位置.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3909">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tiaoyin/跳音动效.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="971" column="39" lean-forward="false" selection-start-line="971" selection-start-column="39" selection-end-line="971" selection-end-column="39" />
+        <state relative-caret-position="577">
+          <caret line="984" column="59" lean-forward="true" selection-start-line="984" selection-start-column="15" selection-end-line="984" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiaoyin/important/跳音含义/跳音知识点-03含义.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="590" column="43" lean-forward="false" selection-start-line="590" selection-start-column="43" selection-end-line="590" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiaoyin/important/跳音含义-创意/跳音知识点-03含义-创意02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiaoyin/important/跳音-位置/跳音知识点-01位置.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiaoyin/important/跳音含义/跳音知识点-03含义.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiaoyin/important/跳音含义-创意/跳音知识点-03含义-创意02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
           <folding />
         </state>
       </provider>
