@@ -33,35 +33,21 @@
             position: relative;
             flex-grow: 1;
             padding: 50px 0;
+            font-size: 280px;
+            color: red;
+            font-weight: bold;
+            text-align: center;
             /*border-radius: 20px 2px 20px 2px;*/
+        }
+        .fen{
+            font-size: 90px;
+            font-weight: bold;
+            color: black;
         }
 
         .choice > div {
             /* justify-content:center */
 
-        }
-
-        .choice:hover {
-            -webkit-animation: sucaijiayuan 1s .1s ease both;
-            -moz-animation: tada 1s .1s ease both;
-        }
-
-        @-webkit-keyframes sucaijiayuan {
-            0% {
-                -webkit-transform: scale(1)
-            }
-            10%, 20% {
-                -webkit-transform: scale(0.8) rotate(-2deg)
-            }
-            30%, 50%, 70%, 90% {
-                -webkit-transform: scale(1.1) rotate(2deg)
-            }
-            40%, 60%, 80% {
-                -webkit-transform: scale(1.1) rotate(-2deg)
-            }
-            100% {
-                -webkit-transform: scale(1) rotate(0)
-            }
         }
 
         .title {
@@ -79,7 +65,7 @@
 
         .answers {
             width: 90%;
-            margin: 30px auto 10px auto;
+            margin: 10px auto 10px auto;
             display: flex;
             position: relative;
             /* flex-grow:1; */
@@ -118,13 +104,10 @@
 </head>
 <body>
 <div id="demo">
-    <p class="title">C音习题-5/7</p>
-    <div class="question">5.下列哪个是DO音?</div>
+    <p class="title">C音习题-得分</p>
     <div class="answers">
-        <a href="examination1-3.html"><img class="prev" src="exam-images/上一题.png" alt=""></a>
-        <div class="choice"><img src="exam-images/第5题-1.png" width="90%"/></div>
-        <div class="choice"><img src="exam-images/第5题-2.png" width="90%"/></div>
-        <a id="next" href="examination1-7.html"><img class="next" src="exam-images/下一题.png" alt=""></a>
+        <div class="choice">
+            85<span class="fen"> 分</span></div>
     </div>
 
 </div>
@@ -136,7 +119,7 @@
 </script>
 <script>
     $(function () {
-        check(0);
+        // check(0);
     });
 
 </script>

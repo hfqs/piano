@@ -132,7 +132,7 @@
         <div class="choice"><img src="exam-images/music.png"/><img class="play" src="exam-images/play.png" alt=""><audio controls="controls" src="mp3/1.mp3" ></audio></div>
         <div class="choice"><img src="exam-images/music.png"/><img class="play" src="exam-images/play.png" alt=""><audio controls="controls" src="mp3/2.mp3"></audio></div>
         <div class="choice"><img src="exam-images/music.png"/><img class="play" src="exam-images/play.png" alt=""><audio controls="controls" src="mp3/3.mp3"></audio></div>
-        <a href="examination1-3.html"><img class="next" src="exam-images/下一题.png" alt=""></a>
+        <a id="next" href="examination1-3.html"><img class="next" src="exam-images/下一题.png" alt=""></a>
     </div>
 
 </div>
@@ -148,7 +148,7 @@
         $('.play').click(function(event) {
           /* Act on the event */
           // console.log(1,$(this).next());
-          var audio=$(this).next()
+          var audio=$(this).next();
           console.log(audio[0]);
           audio[0].play()
         });
