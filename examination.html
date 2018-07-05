@@ -3,10 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>课后习题</title>
-    <!--<link rel="stylesheet" type="text/css" href="main.css"/>-->
+    <link rel="stylesheet" type="text/css" href="css/reset.css"/>
     <!--<link rel="stylesheet" type="text/css" href="styles.css"/>-->
     <style type="text/css">
-
+        body,html{
+          height: 100%;
+          width: 100%
+        }
         body {
             background-image: url(exam-images/bg.jpg);
             background-repeat: no-repeat;
@@ -26,8 +29,9 @@
             min-width: 150px; */
             /*border: 1px solid black;*/
             /* justify-content:center; */
+            position: relative;
             flex-grow:1;
-            padding: 50px 60px;
+            padding: 50px 0;
             /*border-radius: 20px 2px 20px 2px;*/
         }
         .choice>div{
@@ -74,23 +78,46 @@
             width: 90%;
             margin: 30px auto 10px auto;
             display: flex;
+            position: relative;
             /* flex-grow:1; */
         }
-        .choice img{
+        .choice img:first-of-type{
           display: block;
           margin: 0 auto
         }
+        .checkImg{
+          position: absolute;
+          bottom: 60px;
+          left: 79%;
+          transform: translateX(-50%);
+        }
+        .next,.prev{
+          position: absolute;
+          top: 50%;
+          transform: translateY(-50%);
+        }
 
+        .next{
+          right: -15%
+        }
+        .prev{
+          left: -15%;
+        }
+        /* .checkImg{
+          display: none;
+        } */
     </style>
 </head>
 <body>
 <div id="demo">
-    <p class="title">C音习题</p>
+    <p class="title">C音习题1-7</p>
     <div class="question">1.下列哪个音是DO？</div>
     <div class="answers">
-        <div class="choice right-answer"><img src="exam-images/第1题-1.png" /></div>
+        <img class="prev" src="exam-images/上一题.png" alt="">
+        <div class="choice"><img src="exam-images/第1题-1.png" /></div>
         <div class="choice"><img src="exam-images/第1题-2.png"/></div>
         <div class="choice"><img src="exam-images/第1题-3.png"/></div>
+        <img class="next" src="exam-images/下一题.png" alt="">
     </div>
 
 </div>
@@ -102,9 +129,7 @@
 </script>
 <script>
     $(function () {
-        $(".right-answer").click(function () {
-
-        });
+      check(0)
     });
 
 </script>
