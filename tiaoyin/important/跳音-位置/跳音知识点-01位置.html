@@ -18,8 +18,13 @@
             width: 100% !important;
             height: 100% !important
         }
+        audio {
+            opacity: 0
+        }
     </style>
     <!-- write your code here -->
+    <script type="text/javascript" src="../../js/jquery-1.7.2.min.js">
+    </script>
     <script src="libs/createjs-2015.11.26.min.js"></script>
     <script src="跳音知识点-01位置.js?1530773381773"></script>
     <script>
@@ -124,6 +129,7 @@
     <div id="dom_overlay_container"
          style="pointer-events:none; overflow:hidden; width:1768px; height:924px; position: absolute; left: 0px; top: 0px; display: block;">
     </div>
+    <audio id="DO-audio" controls="controls" src="跳音.m4a"></audio>
 </div>
 </body>
 </html>
