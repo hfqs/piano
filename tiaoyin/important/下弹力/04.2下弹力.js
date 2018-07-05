@@ -508,7 +508,9 @@ p.nominalBounds = new cjs.Rectangle(0,0,419.2,101.1);
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("1");
+			$('video').attr('src', '../../mp4/4-1-2肘关节与前臂.mp4');
+			$('video').show()
+			$('.scale').show()
 			// 结束您的自定义代码
 		}
 	}
@@ -549,7 +551,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,419.2,101.1);
 		$('video').attr('src', '../../mp4/4-1-1掌关节与手指.mp4');
 		$('video').show()
 		$('.scale').show()
-		
+
 			// 结束您的自定义代码
 		}
 	}
@@ -679,7 +681,9 @@ p.nominalBounds = new cjs.Rectangle(0,0,419.2,101.1);
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("3");
+			$('video').attr('src', '../../mp4/4-1-5触点短小.mp4');
+			$('video').show()
+			$('.scale').show()
 			// 结束您的自定义代码
 		}
 	}
@@ -716,7 +720,9 @@ p.nominalBounds = new cjs.Rectangle(0,0,419.2,101.1);
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("4");
+			$('video').attr('src', '../../mp4/4-1-3正确使用手腕.mp4');
+			$('video').show()
+			$('.scale').show()
 			// 结束您的自定义代码
 		}
 	}
@@ -753,7 +759,9 @@ p.nominalBounds = new cjs.Rectangle(0,0,419.2,101.1);
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("5");
+			$('video').attr('src', '../../mp4/4-1-4速度与力度.mp4');
+			$('video').show()
+			$('.scale').show()
 			// 结束您的自定义代码
 		}
 	}
@@ -804,7 +812,7 @@ p.nominalBounds = new cjs.Rectangle(-4,-4,67.1,76.2);
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("6");
+			location.href="../反弹力/反弹力.html"
 			// 结束您的自定义代码
 		}
 	}
