@@ -92,7 +92,7 @@
 
         .checkImg {
             position: absolute;
-            bottom: 60px;
+            top: 120px;
             left: 79%;
             transform: translateX(-50%);
         }
@@ -110,7 +110,14 @@
         .prev {
             left: -15%;
         }
-
+        .play{
+          display: block;
+          margin: 0 auto;
+          margin-top: 30px
+        }
+        audio{
+          opacity: 0
+        }
         /* .checkImg{
           display: none;
         } */
@@ -122,9 +129,9 @@
     <div class="question">1.下列哪个音是DO？</div>
     <div class="answers">
         <img class="prev" src="exam-images/上一题.png" alt="">
-        <div class="choice"><img src="exam-images/第1题-1.png"/></div>
-        <div class="choice"><img src="exam-images/第1题-2.png"/></div>
-        <div class="choice"><img src="exam-images/第1题-3.png"/></div>
+        <div class="choice"><img src="exam-images/music.png"/><img class="play" src="exam-images/play.png" alt=""><audio controls="controls" src="mp3/1.mp3" ></audio></div>
+        <div class="choice"><img src="exam-images/music.png"/><img class="play" src="exam-images/play.png" alt=""><audio controls="controls" src="mp3/2.mp3"></audio></div>
+        <div class="choice"><img src="exam-images/music.png"/><img class="play" src="exam-images/play.png" alt=""><audio controls="controls" src="mp3/3.mp3"></audio></div>
         <img class="next" src="exam-images/下一题.png" alt="">
     </div>
 
@@ -138,6 +145,13 @@
 <script>
     $(function () {
         check(0);
+        $('.play').click(function(event) {
+          /* Act on the event */
+          // console.log(1,$(this).next());
+          var audio=$(this).next()
+          console.log(audio[0]);
+          audio[0].play()
+        });
     });
 
 </script>
