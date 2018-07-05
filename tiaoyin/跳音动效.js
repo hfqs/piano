@@ -815,7 +815,8 @@ p.nominalBounds = new cjs.Rectangle(-69,-68.5,138,137);
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert('习题');
+			//alert('习题');
+            window.location.href='../examination2-1.html';
 			// 结束您的自定义代码
 		}
 	}
@@ -967,7 +968,8 @@ p.nominalBounds = new cjs.Rectangle(-69,-68.5,138,137);
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("已单击鼠标");
+			//alert("已单击鼠标");
+            window.location.href='跳音-位置/跳音知识点-01位置.html';
 			// 结束您的自定义代码
 		}
 	}
