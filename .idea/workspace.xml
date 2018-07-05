@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d32478f-2b17-4c6a-b912-aaef677b0e97" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/tiaoyin/跳音-位置/02 跳音知识点-01位置.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tiaoyin/跳音-位置/02 跳音知识点-01位置.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tiaoyin/跳音-位置/images/02 跳音知识点_01位置_atlas_.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tiaoyin/跳音-位置/libs/createjs-2015.11.26.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tiaoyin/跳音含义-创意/03 跳音知识点-03含义-创意02.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tiaoyin/跳音含义-创意/03 跳音知识点-03含义-创意02.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tiaoyin/跳音含义-创意/images/03 跳音知识点_03含义_创意02_atlas_.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tiaoyin/跳音含义-创意/libs/createjs-2015.11.26.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tiaoyin/跳音含义/03 跳音知识点-03含义.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tiaoyin/跳音含义/03 跳音知识点-03含义.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tiaoyin/跳音含义/images/03 跳音知识点_03含义_atlas_NP_.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tiaoyin/跳音含义/images/03 跳音知识点_03含义_atlas_P_.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tiaoyin/跳音含义/libs/createjs-2015.11.26.min.js" />
-    </list>
+    <list default="true" id="7d32478f-2b17-4c6a-b912-aaef677b0e97" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -388,12 +374,12 @@
       <option name="presentableId" value="Default" />
       <updated>1530595804490</updated>
       <workItem from="1530595806233" duration="24979000" />
-      <workItem from="1530692064838" duration="19708000" />
+      <workItem from="1530692064838" duration="19816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44687000" />
+    <option name="totallyTimeSpent" value="44795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
