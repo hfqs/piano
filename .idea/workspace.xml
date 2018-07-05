@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d32478f-2b17-4c6a-b912-aaef677b0e97" name="Default" comment="" />
+    <list default="true" id="7d32478f-2b17-4c6a-b912-aaef677b0e97" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/examination2-5.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/examination2-6.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/examination2-7.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/examination2-8.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/5（无跳音）.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/5（有跳音）.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/6（无跳音）.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/6（有跳音）.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/7（无跳音）.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/7（有跳音）.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/8（无跳音）.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mp3/8（有跳音）.mp3" />
+      <change beforePath="$PROJECT_DIR$/examination1-1.html" afterPath="$PROJECT_DIR$/examination1-1.html" />
+      <change beforePath="$PROJECT_DIR$/examination1-2.html" afterPath="$PROJECT_DIR$/examination1-2.html" />
+      <change beforePath="$PROJECT_DIR$/examination1-3.html" afterPath="$PROJECT_DIR$/examination1-3.html" />
+      <change beforePath="$PROJECT_DIR$/examination1-5.html" afterPath="$PROJECT_DIR$/examination1-5.html" />
+      <change beforePath="$PROJECT_DIR$/examination2-1.html" afterPath="$PROJECT_DIR$/examination2-1.html" />
+      <change beforePath="$PROJECT_DIR$/examination2-2.html" afterPath="$PROJECT_DIR$/examination2-2.html" />
+      <change beforePath="$PROJECT_DIR$/examination2-3.html" afterPath="$PROJECT_DIR$/examination2-3.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,76 +31,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="examination2-3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examination2-3.html">
+      <file leaf-file-name="examination1-1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examination1-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="120" column="33" lean-forward="false" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
+            <state relative-caret-position="607">
+              <caret line="127" column="38" lean-forward="false" selection-start-line="127" selection-start-column="8" selection-end-line="127" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="第6题-全音符.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exam-images/第6题-全音符.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="examination1-3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examination1-3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="607">
+              <caret line="127" column="31" lean-forward="false" selection-start-line="127" selection-start-column="31" selection-end-line="127" selection-end-column="31" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="第6题-元素.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exam-images/第6题-元素.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="examination1-5.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examination1-5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="562">
+              <caret line="123" column="31" lean-forward="false" selection-start-line="123" selection-start-column="31" selection-end-line="123" selection-end-column="31" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="第5题-2.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exam-images/第5题-2.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="examination1-2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examination1-2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="134" column="93" lean-forward="false" selection-start-line="134" selection-start-column="93" selection-end-line="134" selection-end-column="93" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="第4题-牌面E.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exam-images/第4题-牌面E.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="examination2-5.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examination2-5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="135" column="35" lean-forward="false" selection-start-line="135" selection-start-column="35" selection-end-line="135" selection-end-column="35" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="第4题-牌面D.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exam-images/第4题-牌面D.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="examination2-3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examination2-3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="124" column="38" lean-forward="false" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="38" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="第4题-牌面C.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exam-images/第4题-牌面C.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="examination2-6.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examination2-6.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="135" column="44" lean-forward="false" selection-start-line="135" selection-start-column="44" selection-end-line="135" selection-end-column="44" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="第4题-牌背.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exam-images/第4题-牌背.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="examination2-7.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examination2-7.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="136" column="31" lean-forward="false" selection-start-line="136" selection-start-column="31" selection-end-line="136" selection-end-column="31" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="错误.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exam-images/错误.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="examination2-8.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examination2-8.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="137" column="10" lean-forward="true" selection-start-line="137" selection-start-column="10" selection-end-line="137" selection-end-column="10" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="琴键.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exam-images/琴键.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="examination2-1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examination2-1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="124" column="33" lean-forward="false" selection-start-line="124" selection-start-column="32" selection-end-line="124" selection-end-column="33" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -113,13 +160,17 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/cloud.html" />
         <option value="$PROJECT_DIR$/examination.html" />
-        <option value="$PROJECT_DIR$/examination1-2.html" />
-        <option value="$PROJECT_DIR$/examination1-1.html" />
-        <option value="$PROJECT_DIR$/examination1-3.html" />
-        <option value="$PROJECT_DIR$/examination1-5.html" />
-        <option value="$PROJECT_DIR$/examination2-1.html" />
         <option value="$PROJECT_DIR$/examination2-2.html" />
         <option value="$PROJECT_DIR$/examination2-3.html" />
+        <option value="$PROJECT_DIR$/examination2-6.html" />
+        <option value="$PROJECT_DIR$/examination2-5.html" />
+        <option value="$PROJECT_DIR$/examination2-7.html" />
+        <option value="$PROJECT_DIR$/examination2-8.html" />
+        <option value="$PROJECT_DIR$/examination2-1.html" />
+        <option value="$PROJECT_DIR$/examination1-1.html" />
+        <option value="$PROJECT_DIR$/examination1-2.html" />
+        <option value="$PROJECT_DIR$/examination1-3.html" />
+        <option value="$PROJECT_DIR$/examination1-5.html" />
       </list>
     </option>
   </component>
@@ -181,6 +232,11 @@
             <path>
               <item name="kejian" type="b2602c69:ProjectViewProjectNode" />
               <item name="kejian" type="462c0819:PsiDirectoryNode" />
+              <item name="mp3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kejian" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kejian" type="462c0819:PsiDirectoryNode" />
               <item name="tiao-exam-image" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -205,6 +261,7 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/mp3" />
       <recent name="$PROJECT_DIR$/tiao-exam-image" />
       <recent name="$PROJECT_DIR$/exam-images" />
       <recent name="$PROJECT_DIR$/images" />
@@ -320,15 +377,16 @@
       <option name="presentableId" value="Default" />
       <updated>1530595804490</updated>
       <workItem from="1530595806233" duration="24979000" />
-      <workItem from="1530692064838" duration="6792000" />
+      <workItem from="1530692064838" duration="8526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31771000" />
+    <option name="totallyTimeSpent" value="33505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -342,7 +400,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.104395606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.104395606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -399,26 +457,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/csbg.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/yin1.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/sing1.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/wuxianpu1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/position1.gif">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -565,62 +603,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examination1-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="128" column="10" lean-forward="false" selection-start-line="128" selection-start-column="10" selection-end-line="128" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examination1-2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="134" column="8" lean-forward="false" selection-start-line="134" selection-start-column="8" selection-end-line="134" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examination1-3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="127" column="38" lean-forward="false" selection-start-line="127" selection-start-column="8" selection-end-line="127" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examination1-5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="121" column="27" lean-forward="false" selection-start-line="121" selection-start-column="27" selection-end-line="121" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examination2-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="124" column="67" lean-forward="false" selection-start-line="124" selection-start-column="67" selection-end-line="124" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examination2-2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="113" column="21" lean-forward="false" selection-start-line="113" selection-start-column="21" selection-end-line="113" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examination2-3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="120" column="33" lean-forward="false" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exam-images/第6题-全音符.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -664,6 +646,94 @@
     <entry file="file://$PROJECT_DIR$/exam-images/琴键.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination2-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="29" lean-forward="false" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination2-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="124" column="38" lean-forward="false" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination2-6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="135" column="44" lean-forward="false" selection-start-line="135" selection-start-column="44" selection-end-line="135" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination2-5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="135" column="35" lean-forward="false" selection-start-line="135" selection-start-column="35" selection-end-line="135" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination2-7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="136" column="31" lean-forward="false" selection-start-line="136" selection-start-column="31" selection-end-line="136" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination2-8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="137" column="10" lean-forward="true" selection-start-line="137" selection-start-column="10" selection-end-line="137" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination2-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="124" column="33" lean-forward="false" selection-start-line="124" selection-start-column="32" selection-end-line="124" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination1-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="127" column="38" lean-forward="false" selection-start-line="127" selection-start-column="8" selection-end-line="127" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination1-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="134" column="93" lean-forward="false" selection-start-line="134" selection-start-column="93" selection-end-line="134" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination1-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="127" column="31" lean-forward="false" selection-start-line="127" selection-start-column="31" selection-end-line="127" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination1-5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="123" column="31" lean-forward="false" selection-start-line="123" selection-start-column="31" selection-end-line="123" selection-end-column="31" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
