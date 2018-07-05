@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"认识唱名DO——创意完_atlas_", frames: [[0,2164,1814,969],[1352,3135,437,98],[1130,3529,70,70],[1663,3320,60,36],[0,3135,542,646],[1289,3467,40,24],[1548,3413,66,40],[1479,3274,88,52],[1751,3274,24,44],[1656,3358,74,54],[1059,3388,69,214],[0,0,1920,1080],[1481,3413,65,44],[1616,3414,63,9],[1352,3342,63,9],[1352,3235,397,37],[0,1082,1920,1080],[1535,3328,24,24],[1339,3413,69,53],[1791,3135,139,221],[1479,3328,54,28],[1663,3274,86,44],[1569,3274,92,47],[1725,3320,58,29],[1569,3323,56,29],[1219,3388,68,165],[1289,3388,48,77],[0,3783,1907,175],[1352,3274,125,66],[544,3135,513,406],[1751,3235,38,37],[1059,3135,291,251],[1410,3413,69,53],[1130,3388,87,139],[1352,3358,302,53]]}
+		{name:"认识唱名DO——创意完_atlas_", frames: [[0,0,1814,969],[1352,971,437,98],[0,971,542,646],[1734,1149,40,24],[1727,1240,66,40],[1479,1110,88,52],[1795,1225,24,44],[1059,1224,69,214],[1727,1194,65,44],[1694,1175,63,9],[1629,1165,63,9],[1352,1071,397,37],[1535,1164,24,24],[1656,1194,69,53],[1791,971,139,221],[1479,1164,54,28],[1130,1365,86,44],[1569,1110,92,47],[1569,1159,58,29],[1794,1194,56,29],[1219,1224,68,165],[1289,1224,48,77],[0,1619,1907,175],[1352,1110,125,66],[544,971,513,406],[1734,1110,38,37],[1059,971,291,251],[1663,1110,69,53],[1130,1224,87,139],[1352,1194,302,53]]}
 ];
 
 
@@ -25,233 +25,198 @@ lib.ssMetadata = [
 
 
 
-(lib.椭圆1 = function() {
+(lib.房子 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.椭圆1拷贝 = function() {
+(lib.DO = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.房子 = function() {
+(lib.DO拷贝 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.DO = function() {
+(lib.DO拷贝2 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.DO拷贝 = function() {
+(lib.手 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.DO拷贝2 = function() {
+(lib.人 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.手 = function() {
+(lib.图层2 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.关闭4拷贝 = function() {
+(lib.图层3 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.人 = function() {
+(lib.图层3拷贝 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.图层1 = function() {
+(lib.注DO的声音像敲门声 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.图层2 = function() {
+(lib.矢量智能对象 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.图层3 = function() {
+(lib.矢量智能对象_1 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.图层3拷贝 = function() {
+(lib.矢量智能对象拷贝 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.注DO的声音像敲门声 = function() {
+(lib.矢量智能对象拷贝2 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.矢量智能对象 = function() {
+(lib.矢量智能对象拷贝3 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.矢量智能对象_1 = function() {
+(lib.矢量智能对象拷贝4 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.矢量智能对象_2 = function() {
+(lib.矢量智能对象拷贝5 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.矢量智能对象拷贝 = function() {
+(lib.矢量智能对象拷贝6 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.矢量智能对象拷贝2 = function() {
+(lib.矢量智能对象1 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.矢量智能对象拷贝3 = function() {
+(lib.矢量智能对象2 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.矢量智能对象拷贝4 = function() {
+(lib.矢量智能对象_1_1 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.矢量智能对象拷贝5 = function() {
+(lib.矢量智能对象_1_2 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.矢量智能对象拷贝6 = function() {
+(lib.矢量智能对象_1_3 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.矢量智能对象1 = function() {
+(lib.矢量智能对象_2 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.矢量智能对象2 = function() {
+(lib.矢量智能对象_2_1 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.矢量智能对象_1_1 = function() {
+(lib.矢量智能对象_3 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.矢量智能对象_1_2 = function() {
+(lib.矢量智能对象_3_1 = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
 	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.矢量智能对象_1_3 = function() {
-	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
-	this.gotoAndStop(29);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.矢量智能对象_2_1 = function() {
-	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
-	this.gotoAndStop(30);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.矢量智能对象_2_2 = function() {
-	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
-	this.gotoAndStop(31);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.矢量智能对象_3 = function() {
-	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
-	this.gotoAndStop(32);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.矢量智能对象_3_1 = function() {
-	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
-	this.gotoAndStop(33);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.认识唱名DO = function() {
 	this.spriteSheet = ss["认识唱名DO——创意完_atlas_"];
-	this.gotoAndStop(34);
+	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
 
@@ -555,7 +520,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 	this.timeline.addTween(cjs.Tween.get(this.instance_6).wait(79));
 
 	// 矢量智能对象_2
-	this.instance_7 = new lib.矢量智能对象_2_2();
+	this.instance_7 = new lib.矢量智能对象_2_1();
 	this.instance_7.parent = this;
 	this.instance_7.setTransform(21,520);
 
@@ -568,141 +533,106 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{});
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_8).wait(79));
 
-	// 关闭-4 拷贝
-	this.instance_9 = new lib.关闭4拷贝();
+	// 矢量智能对象
+	this.instance_9 = new lib.矢量智能对象_1();
 	this.instance_9.parent = this;
-	this.instance_9.setTransform(1713,7);
+	this.instance_9.setTransform(1547,152);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_9).wait(79));
 
-	// 椭圆 1
-	this.instance_10 = new lib.椭圆1();
+	// 矢量智能对象_3
+	this.instance_10 = new lib.矢量智能对象_3();
 	this.instance_10.parent = this;
-	this.instance_10.setTransform(1716,-12);
+	this.instance_10.setTransform(372,279);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_10).wait(79));
 
-	// 椭圆 1 拷贝
-	this.instance_11 = new lib.椭圆1拷贝();
+	// 矢量智能对象_2
+	this.instance_11 = new lib.矢量智能对象_2();
 	this.instance_11.parent = this;
-	this.instance_11.setTransform(1719,36);
+	this.instance_11.setTransform(1617,439);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_11).wait(79));
 
-	// 矢量智能对象
-	this.instance_12 = new lib.矢量智能对象_2();
+	// 矢量智能对象 拷贝 5
+	this.instance_12 = new lib.矢量智能对象拷贝5();
 	this.instance_12.parent = this;
-	this.instance_12.setTransform(1547,152);
+	this.instance_12.setTransform(1626,513);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_12).wait(79));
 
-	// 矢量智能对象_3
-	this.instance_13 = new lib.矢量智能对象_3();
+	// 矢量智能对象 拷贝 4
+	this.instance_13 = new lib.矢量智能对象拷贝4();
 	this.instance_13.parent = this;
-	this.instance_13.setTransform(372,279);
+	this.instance_13.setTransform(1534,189);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_13).wait(79));
 
-	// 矢量智能对象_2
-	this.instance_14 = new lib.矢量智能对象_2_1();
+	// 矢量智能对象 拷贝 3
+	this.instance_14 = new lib.矢量智能对象拷贝3();
 	this.instance_14.parent = this;
-	this.instance_14.setTransform(1617,439);
+	this.instance_14.setTransform(145,310);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_14).wait(79));
 
-	// 矢量智能对象 拷贝 5
-	this.instance_15 = new lib.矢量智能对象拷贝5();
+	// 矢量智能对象 拷贝 2
+	this.instance_15 = new lib.矢量智能对象拷贝2();
 	this.instance_15.parent = this;
-	this.instance_15.setTransform(1626,513);
+	this.instance_15.setTransform(1003,143);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_15).wait(79));
 
-	// 矢量智能对象 拷贝 4
-	this.instance_16 = new lib.矢量智能对象拷贝4();
+	// 矢量智能对象 拷贝 6
+	this.instance_16 = new lib.矢量智能对象拷贝6();
 	this.instance_16.parent = this;
-	this.instance_16.setTransform(1534,189);
+	this.instance_16.setTransform(540,397);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_16).wait(79));
 
-	// 矢量智能对象 拷贝 3
-	this.instance_17 = new lib.矢量智能对象拷贝3();
+	// 矢量智能对象_1
+	this.instance_17 = new lib.矢量智能对象_1_2();
 	this.instance_17.parent = this;
-	this.instance_17.setTransform(145,310);
+	this.instance_17.setTransform(628,77);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_17).wait(79));
 
-	// 矢量智能对象 拷贝 2
-	this.instance_18 = new lib.矢量智能对象拷贝2();
+	// 矢量智能对象
+	this.instance_18 = new lib.矢量智能对象();
 	this.instance_18.parent = this;
-	this.instance_18.setTransform(1003,143);
+	this.instance_18.setTransform(30,91);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_18).wait(79));
 
-	// 矢量智能对象 拷贝 6
-	this.instance_19 = new lib.矢量智能对象拷贝6();
+	// 认识唱名DO
+	this.instance_19 = new lib.认识唱名DO();
 	this.instance_19.parent = this;
-	this.instance_19.setTransform(540,397);
+	this.instance_19.setTransform(80,77);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_19).wait(79));
 
-	// 矢量智能对象_1
-	this.instance_20 = new lib.矢量智能对象_1_2();
+	// 圆角矩形 2
+	this.instance_20 = new lib.圆角矩形2();
 	this.instance_20.parent = this;
-	this.instance_20.setTransform(628,77);
+	this.instance_20.setTransform(0,54);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_20).wait(79));
 
-	// 矢量智能对象
-	this.instance_21 = new lib.矢量智能对象_1();
+	// 矢量智能对象_1
+	this.instance_21 = new lib.矢量智能对象_1_1();
 	this.instance_21.parent = this;
-	this.instance_21.setTransform(30,91);
+	this.instance_21.setTransform(-76,765);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_21).wait(79));
 
-	// 认识唱名DO
-	this.instance_22 = new lib.认识唱名DO();
+	// 圆角矩形 1
+	this.instance_22 = new lib.圆角矩形1();
 	this.instance_22.parent = this;
-	this.instance_22.setTransform(80,77);
+	this.instance_22.setTransform(-23,-18);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_22).wait(79));
 
-	// 圆角矩形 2
-	this.instance_23 = new lib.圆角矩形2();
-	this.instance_23.parent = this;
-	this.instance_23.setTransform(0,54);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_23).wait(79));
-
-	// 矢量智能对象_1
-	this.instance_24 = new lib.矢量智能对象_1_1();
-	this.instance_24.parent = this;
-	this.instance_24.setTransform(-76,765);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_24).wait(79));
-
-	// 圆角矩形 1
-	this.instance_25 = new lib.圆角矩形1();
-	this.instance_25.parent = this;
-	this.instance_25.setTransform(-23,-18);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_25).wait(79));
-
-	// 图层 1
-	this.instance_26 = new lib.图层1();
-	this.instance_26.parent = this;
-	this.instance_26.setTransform(-76,-78);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_26).wait(79));
-
-	// 矢量智能对象
-	this.instance_27 = new lib.矢量智能对象();
-	this.instance_27.parent = this;
-	this.instance_27.setTransform(-76,-78);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_27).wait(79));
-
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(808,384,1920,1080);
+p.nominalBounds = new cjs.Rectangle(808,444,1907,969);
 // library properties:
 lib.properties = {
 	id: '0AC283B22E718C41839E99BBF461B170',
@@ -712,8 +642,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/认识唱名DO——创意完_atlas_.png?1530773806704", id:"认识唱名DO——创意完_atlas_"},
-		{src:"sounds/敲门三高质量_.mp3?1530773806737", id:"敲门三高质量"}
+		{src:"images/认识唱名DO——创意完_atlas_.png?1530784096790", id:"认识唱名DO——创意完_atlas_"},
+		{src:"sounds/敲门三高质量_.mp3?1530784096822", id:"敲门三高质量"}
 	],
 	preloads: []
 };

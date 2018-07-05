@@ -3,8 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <title>DO唱名</title>
+    <style>
+        /*body{*/
+        /*background-image: url(images/frame-bg.jpeg);*/
+        /*background-repeat: no-repeat;*/
+        /*background-position: left top;*/
+        /*background-size: 100% 100%;*/
+        /*}*/
+
+        html, body, #animation_container, canvas {
+
+            width: 100% !important;
+            height: 100% !important
+        }
+
+        body {
+            background-image: url(images/frame-bg.jpeg);
+            background-repeat: no-repeat;
+            background-position: left top;
+            background-size: 100% 100%;
+        }
+    </style>
 </head>
 <body>
+<img src='images/DO.gif' width="100%"/>
+<img id="point" src='images/圆点闪动.gif' width="5%" style="position: absolute;top:84%;right:18.3%"/>
 
 </body>
+<script type="text/javascript" src="jquery-1.7.2.min.js"></script>
+<script>
+    $(function () {
+        $('#point').click(
+            function () {
+                window.location.href = "./认识唱名DO/认识唱名DO——创意完.html";
+            }
+        );
+    });
+</script>
 </html>

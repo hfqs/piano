@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <style media="screen">
+    html,body,.box{
+      width: 100% !important;
+      height: 100% !important
+    }
+    .box{
+      background: url('./images/pianoBack.png');
+      background-size: 100% 100%;
+      position: relative;
+    }
+    .contain{
+      width:60%;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+    }
+    .contain>img:first-of-type{
+      display: block;
+      width: 100%
+    }
+    .rabbit{
+      position: absolute;
+      right: 4%;
+      bottom: 23%;
+      width: 5%;
+    }
+    .do{
+      position: absolute;
+      height: 100%;
+      width: 7.14%;
+      top: 0;
+      left: 0;
+    }
+    .do img{
+      width: 80%;
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      display: none;
+    }
+    .rabbit1,.rabbit2{
+      position: absolute;
+      left: 5.84%;
+      top: 4px;
+      width: 10%;
+      display: none;
+    }
+    .rabbit2{
+      left: 55.84%;
+    }
+    </style>
+  </head>
+  <body>
+    <div class="box">
+      <div class="contain">
+        <img src="./images/button.png" alt="">
+        <div class="do"><img src="./exam-images/点.png" /></div>
+        <div class="do" style="left:50%"><img src="./exam-images/点.png" /></div>
+        <img class="rabbit1" src="./images/rabbit.png" alt="">
+        <img class="rabbit2" src="./images/rabbit.png" alt="">
+      </div>
+      <img class="rabbit" src="./images/rabbit.png" alt="">
+    </div>
+    <script type="text/javascript" src="./jquery-1.7.2.min.js">
+
+    </script>
+    <script type="text/javascript">
+      $('.do').click(function(event) {
+        /* Act on the event */
+        $(this).find('img').show()
+      });
+      $('.rabbit').click(function(event) {
+        /* Act on the event */
+        $('.rabbit1,.rabbit2').show()
+      });
+    </script>
+  </body>
+</html>
