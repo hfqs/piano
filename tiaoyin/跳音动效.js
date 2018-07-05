@@ -853,7 +853,10 @@ p.nominalBounds = new cjs.Rectangle(-69,-68.5,138,137);
 		{
 			// 开始您的自定义代码
 			// 此示例代码在"输出"面板中显示"已单击鼠标"。
-			alert("4");
+			$("#knowledge").attr("src", './prompt/prompt.html')
+			$('.background').show()
+			$('.close').show()
+			$('#knowledge').show()
 			// 结束您的自定义代码
 		}
 	}
