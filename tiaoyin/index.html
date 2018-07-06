@@ -151,6 +151,9 @@ function handleComplete(evt,comp) {
 	<script type="text/javascript">
 	$('.close').click(function (event) {
 			/* Act on the event */
+			// alert(21)
+			console.log($('video'));
+			$('video')[0].pause();
 			$('#knowledge').hide()
 			$('.background').hide()
 			$('.close').hide()
